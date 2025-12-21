@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 
+const base = "/CN_kipfel/"; 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "VRChat 中文kipfel厅 官方网站",
