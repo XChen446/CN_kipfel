@@ -5,7 +5,10 @@ layout: home
 hero:
   name: "VRChat 中文kipfel厅"
   text: ""
-  tagline: My great project tagline
+  tagline: 食我苹果派！哈！
+  image:
+    src: res/cover_full.webp
+    alt: VitePress
   actions:
     - theme: brand
       text: Markdown Examples
