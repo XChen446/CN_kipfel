@@ -1,8 +1,9 @@
 import { defineConfig } from 'vitepress'
-
+//给github原生域名访问留变量
 const base = "/CN_kipfel/"; 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  //base: base
   title: "VRChat 中文kipfel厅 官方网站",
   description: "暂时还没想好写什么……",
   themeConfig: {
@@ -23,7 +24,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/XChen446/CN_kipfel' }
     ]
   }
 })
