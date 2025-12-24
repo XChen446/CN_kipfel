@@ -17,6 +17,7 @@
     "vitepress": "^1.6.4"
   },
   "dependencies": {
+    "vitepress-plugin-comment-with-giscus": "^1.1.15",
     "vue": "^3.5.26"
   }
 }
