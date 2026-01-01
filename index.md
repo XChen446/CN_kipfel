@@ -5,17 +5,17 @@ layout: home
 hero:
   name: "VRChat 中文kipfel厅"
   text: ""
-  tagline: 食我苹果派！哈！
+  tagline: 食我苹果派！哈！<br> *在加入聊天之前，请先阅读下方板块了解群组噢*
   image:
     src: res/cover_full.webp
     alt: VitePress
   actions:
     - theme: brand
       text: 更↓多↑的↓kipfel↑——
-      link: /markdown-examples
+      link: /utils/advocate
     - theme: alt
-      text: 加入社区
-      link: /api-examples
+      text: 加入社区聊天
+      link: https://qm.qq.com/q/5IefUrYdLq
 
 features:
   - title: 我们倡导
