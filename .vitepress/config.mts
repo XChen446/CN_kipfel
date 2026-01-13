@@ -13,11 +13,11 @@ export default defineConfig({
       { text: '相册', link: 'https://album.cn-kipfel.xchen.link' },
       { text: '<a href="/neighbor/friendly">友链</a>',
               items:[
-                  { text: 'VRC 中文歌友会【QQ群】', link: 'https://qm.qq.com/q/wDls5whXuS' },
-                  { text: '猫猫收容中心 【QQ群】', link: 'https://qm.qq.com/q/SeUu9X6Tyc' },
-                  { text: 'xxx', link: '/' },
-                  { text: 'xxx', link: '/' },
-                  { text: 'xxx', link: '/' },
+                  { text: 'VRC 中文歌友会【VRChat】', link: 'https://vrc.group/1MUFR1.6419' },
+                  { text: '猫猫收容中心 【VRChat】', link: 'https://vrc.group/LYRIC.2312' },
+                  { text: '中文游戏社区 【VRChat】', link: 'https://vrc.group/GAME.0421' },
+                  { text: '百瑞斯塔 BARISTA 【VRChat】', link: 'https://vrc.group/BARIST.4979' },
+                  { text: '撫眠屋 【VRChat】', link: 'https://vrc.group/NABEYA.2781' },
               ],
           }
     ],
