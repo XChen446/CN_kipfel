@@ -1,4 +1,6 @@
 import { defineConfig } from 'vitepress'
+import imsize from 'markdown-it-imsize'
+import { base64LinkPlugin } from './plugins/base64-link'
 //给github原生域名访问留变量
 const base = "/CN_kipfel/"; 
 // https://vitepress.dev/reference/site-config
@@ -6,6 +8,15 @@ export default defineConfig({
   //base: base
   title: "VRChat 中文kipfel厅 官方网站",
   description: "暂时还没想好写什么……",
+  markdown: {
+      config: (md) => {
+            md.use(imsize)
+            md.use(base64LinkPlugin)
+          },
+      image: {
+        lazyLoading: true
+      }
+    },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -31,6 +42,12 @@ export default defineConfig({
           { text: '常开房间', link: '/utils/regular-rooms'},
           { text: '猫猫守则', link: '/404'}
         ]
+      },
+      {
+              text: '冲！是猫窝！',
+              items: [
+                { text: '如何加入聊天群', link: '/join-chatroom' }
+            ]
       },
       {
         text: '猫猫们的好朋友',
