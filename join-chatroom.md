@@ -20,6 +20,8 @@
 ## 如何提取 VRC usrid 并提交
 考虑到，并不是所有玩家都知道怎么提取自己的VRC usrid，
 <br>为了对萌新猫猫们的照顾，我们认为有必要出一篇简单的教程
+<br> *当然，如果你身边有朋友拥有例如 “VRCX” 这一类辅助工具，可以直接向其索要自己的VRC usrid*<br>
+<br> **这个过程不涉及到账密！，如果您遇到有人借此为由向你索要账密登录！立即拉黑删除！**
 
 <br>如果您不需要这篇教程，请跳往下一章节
 
@@ -55,5 +57,6 @@
 - 好了，现在你已经记录下了自己的VRC usrid！它就是你在vrc世界中的身份证
 - 进群问题请直接填写自己的 VRC usrid，不需要任何无用信息
 <br> *当然你也可以选择在进群答案中写一些你遇到的问题，我们会视情况协助解决*
+- 另附：手机端QQ因为受到字数限制，所以无法输入完整的VRC usrid，<br>有条件请使用电脑端QQ提交答案
 ### [欢迎回家！](base64:aHR0cHM6Ly9xdW4ucXEuY29tL3VuaXZlcnNhbC1zaGFyZS9zaGFyZT9hYz0xJmF1dGhLZXk9b1F1QnB0NnBxa0dFYyUyRk14Z3lFcWNEZSUyQkFocnFWT3ZZa1BMJTJCbWxER2t5Z0g2U1IyREU2aHVOREQ2U0pjcXpiZCZidXNpX2RhdGE9ZXlKbmNtOTFjRU52WkdVaU9pSXhNRGMzTVRFeE9EazRJaXdpZEc5clpXNGlPaUpqTjJ4MGFqZFpjbUY1UWs1QlpXTk9ZMEpUVldwTmNrVm9hR2Q0VFdodVdVVjVOVmhRVkZGUmVGSkRXV1JhWmpNM1l6ZHllWEprZFhFMFJXMTZXVnBhSWl3aWRXbHVJam9pTXpBNE9EVTNOak16T0NKOSZkYXRhPWpnQThZSHJLd0hELVg3VkdDZUI1NEFueU9NaC1ra2dyVGdDT3ZiVmVUQkRwN0lUcTgtSkdwbjF6YmNBc1VLYUJmRmZ4eTZ2RHNEcXBidGxmWE9fazJDMzhvVjBZOXBaY0RaTG9MTm9GTWNVJnN2Y3R5cGU9NSZ0ZW1waWQ9aDVfZ3JvdXBfaW5mbw==)
 ### **此时你就是被认证的群组成员了！<br>现在你拥有了进入群组房（非公开）的能力！<br>在群内尽情的吸猫吧！**
