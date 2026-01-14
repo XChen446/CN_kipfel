@@ -1,4 +1,6 @@
 import { defineConfig } from 'vitepress'
+import imsize from 'markdown-it-imsize'
+import { base64LinkPlugin } from './plugins/base64-link'
 //给github原生域名访问留变量
 const base = "/CN_kipfel/"; 
 // https://vitepress.dev/reference/site-config
@@ -6,6 +8,15 @@ export default defineConfig({
   //base: base
   title: "VRChat 中文kipfel厅 官方网站",
   description: "暂时还没想好写什么……",
+  markdown: {
+      config: (md) => {
+            md.use(imsize)
+            md.use(base64LinkPlugin)
+          },
+      image: {
+        lazyLoading: true
+      }
+    },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -13,11 +24,11 @@ export default defineConfig({
       { text: '相册', link: 'https://album.cn-kipfel.xchen.link' },
       { text: '<a href="/neighbor/friendly">友链</a>',
               items:[
-                  { text: 'VRC 中文歌友会【QQ群】', link: 'https://qm.qq.com/q/wDls5whXuS' },
-                  { text: '猫猫收容中心 【QQ群】', link: 'https://qm.qq.com/q/SeUu9X6Tyc' },
-                  { text: 'xxx', link: '/' },
-                  { text: 'xxx', link: '/' },
-                  { text: 'xxx', link: '/' },
+                  { text: 'VRC 中文歌友会【VRChat】', link: 'https://vrc.group/1MUFR1.6419' },
+                  { text: '猫猫收容中心 【VRChat】', link: 'https://vrc.group/LYRIC.2312' },
+                  { text: '中文游戏社区 【VRChat】', link: 'https://vrc.group/GAME.0421' },
+                  { text: '百瑞斯塔 BARISTA 【VRChat】', link: 'https://vrc.group/BARIST.4979' },
+                  { text: '撫眠屋 【VRChat】', link: 'https://vrc.group/NABEYA.2781' },
               ],
           }
     ],
@@ -31,6 +42,12 @@ export default defineConfig({
           { text: '常开房间', link: '/utils/regular-rooms'},
           { text: '猫猫守则', link: '/404'}
         ]
+      },
+      {
+              text: '冲！是猫窝！',
+              items: [
+                { text: '如何加入聊天群', link: '/join-chatroom' }
+            ]
       },
       {
         text: '猫猫们的好朋友',

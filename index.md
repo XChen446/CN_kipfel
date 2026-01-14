@@ -15,7 +15,7 @@ hero:
       link: /utils/advocate
     - theme: alt
       text: 加入社区聊天
-      link: https://qun.qq.com/universal-share/share?ac=1&authKey=oQuBpt6pqkGEc%2FMxgyEqcDe%2BAhrqVOvYkPL%2BmlDGkygH6SR2DE6huNDD6SJcqzbd&busi_data=eyJncm91cENvZGUiOiIxMDc3MTExODk4IiwidG9rZW4iOiJjN2x0ajdZcmF5Qk5BZWNOY0JTVWpNckVoaGd4TWhuWUV5NVhQVFFReFJDWWRaZjM3YzdyeXJkdXE0RW16WVpaIiwidWluIjoiMzA4ODU3NjMzOCJ9&data=jgA8YHrKwHD-X7VGCeB54AnyOMh-kkgrTgCOvbVeTBDp7ITq8-JGpn1zbcAsUKaBfFfxy6vDsDqpbtlfXO_k2C38oV0Y9pZcDZLoLNoFMcU&svctype=5&tempid=h5_group_info
+      link: /join-chatroom
 
 features:
   - title: 我们倡导
