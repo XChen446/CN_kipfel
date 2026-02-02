@@ -58,7 +58,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'discord', link: 'http://discord.cn-kipfel.xchen.link' },
+      { icon: 'discord', link: 'https://discord.gg/hcFud5y8a3' },
       { icon: 'github', link: 'https://github.com/XChen446/CN_kipfel' }
     ]
   }
