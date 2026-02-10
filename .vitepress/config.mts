@@ -25,6 +25,7 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '相册', link: 'https://album.cn-kipfel.xchen.link' },
+      { text: '云盘', link: 'https://pan_cn-kipfel.xchen.link/' },
       { text: '<a href="/neighbor/friendly">友链</a>',
               items:[
                   { text: 'VRC 中文歌友会【VRChat】', link: 'https://vrc.group/1MUFR1.6419' },
