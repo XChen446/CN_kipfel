@@ -7,6 +7,9 @@ const base = "/CN_kipfel/";
 export default defineConfig({
   //base: base
   title: "VRChat 中文kipfel厅 官方网站",
+  head: [
+      ['link', { rel: 'icon', href: '/favicon.svg' }]
+  ],
   description: "暂时还没想好写什么……",
   markdown: {
       config: (md) => {
